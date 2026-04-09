@@ -16,9 +16,9 @@ def XichitinMorpherCeroes(i):
 XichitinMorpherCeroes(10);
 
 def VictoriasGreenMorpherCeroes(i):
-    i = -(1 * (-200000000000))**(-1/2); i**2 = -((1 * (-200000000000))**(10)); i**0 = -(1 * (-200000000000 * 0));
+    i = -(1 * (-200000000000))**(-1/2); i^(10) == -(1 * (-200000000000 * 0));
     for i in range(10):
-        i**10 = 10;
+        i^(10) == 10;
         debttaxrate = (1 / 0.01);
         n = 46;
         print(str(int(i)));
