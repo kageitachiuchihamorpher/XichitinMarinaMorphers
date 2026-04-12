@@ -48,3 +48,4 @@ energy_third__dimensional = (energy * energy * ((1/2) * (energy)));
 
 time_energy_relationship = ((energy) * (energy) * (energy));
 print(str(int(mass_of_Earth)) + str(":") + str(int(force)) + str(":") + str(int(mass_of_sun)) + str(":") + str(int(energy)) + str(":") + str(int(time_energy_relationship)));
+print(str(int(mass_of_Earth)) + str(" hours ") + str(" : ") + str(int(force)) + str(" minutes ") + str(" : ") + str(int(mass_of_sun)) + str(" seconds ") + str(" : ") + str(int(energy)) + str(" milliseconds ") + str(" : ") + str(int(time_energy_relationship)) + str(" nanoseconds "));
